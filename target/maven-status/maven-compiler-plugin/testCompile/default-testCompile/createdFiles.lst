@@ -1,0 +1,4 @@
+pages\LoginPage.class
+utilities\PlaywrightFactory.class
+stepdefinitions\LoginPageSteps.class
+utilities\Hooks.class
